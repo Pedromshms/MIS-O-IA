@@ -8,14 +8,14 @@ const = perguntas[
     {
     enunciado: "pergunta 1",
     alternativas: [
-        "Alternativa 1"
+        "Alternativa 1",
         "Alternativa 2"
     }
     ]
     {
         enunciado: "pergunta 2",
         alternativas: [
-            "Alternativa 1"
+            "Alternativa 1",
             "Alternativa 2"
         }
         ]
